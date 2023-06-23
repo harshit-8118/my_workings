@@ -17,17 +17,17 @@ Language used : C++
 Data structure : Trie, Map
 ```
 
-- _Github_ : [portfolio](https://github.com/harshit-8118/TailwindCss)
+- _Github_ : [Tailwind Projects](https://github.com/harshit-8118/TailwindCss)
 ```
 Tech used - TailwindCSS, jquery
 ```
 
-- _Github_ : [portfolio](https://github.com/harshit-8118/SignUpForm)
+- _Github_ : [Signup Validation](https://github.com/harshit-8118/SignUpForm)
 ```
 Tech used - PHP, mySQL
 ```
 
-- _Github_ : [portfolio](https://github.com/harshit-8118/Codeforces-edu)
+- _Github_ : [codeforces edu solutions](https://github.com/harshit-8118/Codeforces-edu)
 ```
 Tech used - C++
 ```
