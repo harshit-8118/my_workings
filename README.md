@@ -1,6 +1,24 @@
   # my_workings
 
 <sub>Project1</sub>
+- _Github_ : [Number Recognizer](https://github.com/harshit-8118/NumberRecognizer)
+```
+Language & dataset used - python, mnist dataset and KNN algorithm.
+```
+
+<sub>Project1</sub>
+- _Github_ : [Movie Recommendation](https://github.com/harshit-8118/MovieRecommendation)
+```
+Language & dataset used - python, movieLens100k dataset.
+```
+
+<sub>Project1</sub>
+- _Github_ : [Face Recognizer](https://github.com/harshit-8118/FaceRecognizer)
+```
+Language & tool used - python, haarcascade_algorithm for face recognition, openCV.
+```
+
+<sub>Project1</sub>
 - _Github_ : [NEWS_SITE](https://github.com/harshit-8118/NEWS_PROJECT)
 ```
 Tech used - PHP, javascript, mySQL.
