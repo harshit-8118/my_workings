@@ -6,6 +6,10 @@
 ```
 Tech used - MongoDB, ReactJS, ExpressJS, NodeJS, firebase-storage, JWT-Auth.
 ```
+- _Github_ : [TaskIO](https://github.com/harshit-8118/TaskIO)
+```
+Tech used - MERN, firebase-storage, Google-Auth, JWT.
+```
 
 <sub>Python Projects</sub>
 - _Github_ : [Face Recognizer](https://github.com/harshit-8118/FaceRecognizer)
