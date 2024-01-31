@@ -1,5 +1,6 @@
   # my_workings
 
+<br>
 
 ### Machine Learning Projects
 - _Github_ : [IMAGE CAPTION BOT](https://github.com/harshit-8118/Image_Captioning)
@@ -23,6 +24,9 @@ Language & dataset used - python, mnist dataset and KNN algorithm.
 Language & dataset used - python, movieLens100k dataset.
 ```
 
+<br>
+<br>
+
 ### MERN projects
 - _Github_ : [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel)
 - _Github_ : [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master)
@@ -34,6 +38,9 @@ Tech used - MongoDB, ReactJS, ExpressJS, NodeJS, firebase-storage, JWT-Auth.
 Tech used - MERN, firebase-storage, Google-Auth, JWT.
 ```
 
+<br>
+<br>
+
 ### PHP projects
 - _Github_ : [NEWS_SITE](https://github.com/harshit-8118/NEWS_PROJECT)
 ```
@@ -44,6 +51,9 @@ Tech used - PHP, javascript, mySQL.
 Tech used - PHP, mySQL
 ```
 
+<br>
+<br>
+
 ### React Project
 - _Github_ : [portfolio](https://github.com/harshit-8118/portfolio)
 - [go to my portfolio](https://hharshit8118.netlify.com)
@@ -51,11 +61,17 @@ Tech used - PHP, mySQL
 Tech used - REACT, javascript, TailwindCSS
 ```
 
+<br>
+<br>
+
 ### Tailwind Project
 - _Github_ : [Tailwind Projects](https://github.com/harshit-8118/TailwindCss)
 ```
 Tech used - TailwindCSS, jquery
 ```
+
+<br>
+<br>
 
 ### DSA Project
 - _Github_ : [Phone_directory](https://github.com/harshit-8118/phone-directory)
@@ -63,6 +79,9 @@ Tech used - TailwindCSS, jquery
 Language used : C++
 Data structure : Trie, Map
 ```
+
+<br>
+<br>
 
 ### Competitive Programming
 - _Github_ : [codeforces edu solutions](https://github.com/harshit-8118/Codeforces-edu)
