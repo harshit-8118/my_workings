@@ -1,15 +1,5 @@
   # my_workings
 
-### MERN projects
-- _Github_ : [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel)
-- _Github_ : [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master)
-```
-Tech used - MongoDB, ReactJS, ExpressJS, NodeJS, firebase-storage, JWT-Auth.
-```
-- _Github_ : [TaskIO](https://github.com/harshit-8118/TaskIO)
-```
-Tech used - MERN, firebase-storage, Google-Auth, JWT.
-```
 
 ### Python Projects
 - _Github_ : [IMAGE CAPTION BOT](https://github.com/harshit-8118/Image_Captioning)
@@ -33,6 +23,16 @@ Language & dataset used - python, mnist dataset and KNN algorithm.
 Language & dataset used - python, movieLens100k dataset.
 ```
 
+### MERN projects
+- _Github_ : [MovieFlixo-admin](https://github.com/harshit-8118/Movieflixo/tree/admin-panel)
+- _Github_ : [MovieFlixo-client](https://github.com/harshit-8118/Movieflixo/tree/master)
+```
+Tech used - MongoDB, ReactJS, ExpressJS, NodeJS, firebase-storage, JWT-Auth.
+```
+- _Github_ : [TaskIO](https://github.com/harshit-8118/TaskIO)
+```
+Tech used - MERN, firebase-storage, Google-Auth, JWT.
+```
 
 ### PHP projects
 - _Github_ : [NEWS_SITE](https://github.com/harshit-8118/NEWS_PROJECT)
