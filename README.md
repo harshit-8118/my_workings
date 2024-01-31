@@ -1,7 +1,7 @@
   # my_workings
 
 
-### Python Projects
+### Machine Learning Projects
 - _Github_ : [IMAGE CAPTION BOT](https://github.com/harshit-8118/Image_Captioning)
 ```
 Language & tool used - python, Deep Learning Model [CNN, MLPs, GAN, DCGAN], FLASK, keras, flikr8k & glove.6b.50d.txt dataset.
